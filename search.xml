@@ -18,4 +18,127 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>Awesome GISer</title>
+    <url>/2022/01/17/Awesome-GISer/</url>
+    <content><![CDATA[<h2 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h2><ol>
+<li>ArcGIS</li>
+<li>QGIS</li>
+<li>Google Earth Engine(平台)</li>
+<li>ENVI </li>
+</ol>
+<h2 id="地理数据处理"><a href="#地理数据处理" class="headerlink" title="地理数据处理"></a>地理数据处理</h2><h3 id="通用"><a href="#通用" class="headerlink" title="通用"></a>通用</h3><ol>
+<li>arcpy</li>
+<li>gdal</li>
+<li>geopandas</li>
+</ol>
+<h3 id="矢量数据"><a href="#矢量数据" class="headerlink" title="矢量数据"></a>矢量数据</h3><ol>
+<li>shapely</li>
+</ol>
+<h3 id="地理制图"><a href="#地理制图" class="headerlink" title="地理制图"></a>地理制图</h3><ol>
+<li>cartopy</li>
+<li>basemap</li>
+</ol>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ol>
+<li>OSMnx 下载OSM数据</li>
+<li>NetworkX 网络分析</li>
+<li>grequest 多并发请求，下载瓦片等</li>
+</ol>
+<h2 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h2><h3 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h3><ol>
+<li>Vue</li>
+<li>Vuetify</li>
+<li>iView</li>
+<li>Openlayers</li>
+<li>Mapbox</li>
+</ol>
+<h3 id="后端"><a href="#后端" class="headerlink" title="后端"></a>后端</h3><ol>
+<li>flask</li>
+<li>pymongo</li>
+</ol>
+<h2 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h2><ol>
+<li>PostgreSQL</li>
+<li>MongoDB</li>
+</ol>
+<h2 id="相关网站"><a href="#相关网站" class="headerlink" title="相关网站"></a>相关网站</h2><ol>
+<li>GIS wiki</li>
+</ol>
+<p><a href="http://giswiki.org/wiki/Geoinformatik_-_Veranstaltungen_-_News_-_Informationen">http://giswiki.org/wiki/Geoinformatik_-<em>Veranstaltungen</em>-<em>News</em>-_Informationen</a></p>
+<ol start="2">
+<li>StackExchange</li>
+</ol>
+<p><a href="https://gis.stackexchange.com/">https://gis.stackexchange.com/</a></p>
+<ol start="3">
+<li>OSgeo</li>
+</ol>
+<p><a href="https://www.osgeo.cn/">https://www.osgeo.cn/</a></p>
+<ol start="4">
+<li>GIS hub</li>
+</ol>
+<p><a href="https://gishub.net/">https://gishub.net/</a></p>
+<ol start="5">
+<li>麻辣GIS</li>
+</ol>
+<p><a href="https://malagis.com/">https://malagis.com/</a></p>
+<ol start="6">
+<li>python与开源GIS</li>
+</ol>
+<p><a href="https://www.osgeo.cn/pygis/introduction.html">https://www.osgeo.cn/pygis/introduction.html</a></p>
+<h2 id="​"><a href="#​" class="headerlink" title="​"></a>​</h2>]]></content>
+      <categories>
+        <category>Awesome</category>
+      </categories>
+      <tags>
+        <tag>GIS</tag>
+        <tag>RS</tag>
+        <tag>技术栈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Awesome CSer</title>
+    <url>/2022/01/17/Awesome-CSer-md/</url>
+    <content><![CDATA[<h1 id="Computer-Vision"><a href="#Computer-Vision" class="headerlink" title="Computer Vision"></a>Computer Vision</h1><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2><ol>
+<li>pytorch</li>
+<li>tensorflow</li>
+<li>Scikit-Learn</li>
+<li>yolo</li>
+<li>detectron2</li>
+<li>MMCV</li>
+<li>paddlepaddle</li>
+</ol>
+<h2 id="计算机视觉"><a href="#计算机视觉" class="headerlink" title="计算机视觉"></a>计算机视觉</h2><ol>
+<li>pillow</li>
+<li>opencv</li>
+</ol>
+<h2 id="游戏开发"><a href="#游戏开发" class="headerlink" title="游戏开发"></a>游戏开发</h2><ol>
+<li>Blender</li>
+<li>opengl</li>
+</ol>
+<h2 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h2><ol>
+<li>Docker</li>
+<li>WSL</li>
+<li>VScode Extensions: Remote Explorer</li>
+</ol>
+<h1 id="Data-Science"><a href="#Data-Science" class="headerlink" title="Data Science"></a>Data Science</h1><h2 id="数据处理"><a href="#数据处理" class="headerlink" title="数据处理"></a>数据处理</h2><ol>
+<li>numpy</li>
+<li>pandas</li>
+<li>scipy</li>
+</ol>
+<h2 id="可视化"><a href="#可视化" class="headerlink" title="可视化"></a>可视化</h2><ol>
+<li>Tableau</li>
+<li>matplotlib</li>
+<li>Kepler</li>
+<li>echarts</li>
+</ol>
+<h2 id="云-集群"><a href="#云-集群" class="headerlink" title="云/集群"></a>云/集群</h2><ol>
+<li>Spark</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Awesome</category>
+      </categories>
+      <tags>
+        <tag>技术栈</tag>
+        <tag>CS</tag>
+      </tags>
+  </entry>
 </search>
