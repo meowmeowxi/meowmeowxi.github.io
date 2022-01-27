@@ -141,4 +141,86 @@
         <tag>CS</tag>
       </tags>
   </entry>
+  <entry>
+    <title>笔记软件测评</title>
+    <url>/2022/01/27/%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%84/</url>
+    <content><![CDATA[<p>随着无纸化的发展，电子笔记的需求愈演愈烈。针对个人日常使用场景，测评了几款常用笔记软件，旨在构建一套简洁高效的笔记整理工作方案。<br />​</p>
+<p>日常学习生活中，主要有四个应用场景：</p>
+<ul>
+<li>日常生活的记录</li>
+<li>听课或听讲座做的笔记</li>
+<li>学习工作中形成的可分享的知识</li>
+<li>锚定特定目标，形成的结构化、体系化的知识</li>
+</ul>
+<p>因此，引出了几条小需求，依次为层级组织灵活便捷、笔记可导出为MarkDown格式、支持思维导图，笔记勾画功能可有可无。<br />​</p>
+<p>研一及以前，我的笔记方案一直是OneNote和GoodNotes，可以比较有效地支持1、2、4场景，偶尔也会用到印象笔记、LiquidText和MarginNote3。从时间线来看，对信息密度较高的知识，比如课本、论文等，有一个发散再聚拢的过程。在前期阅读的时候，可用GoodNotes写下随想，LiquidText和MarginNote3梳理结构，最后用笔记软件内化成自己的东西。<br />​</p>
+<p>本文测评的软件针对最后一个阶段，原有方案的不足为不支持思维导图，且从回馈社区层面，无法满足导出MarkDown生成博客的新需求。总结如下：<br />​<br /></p>
+<table>
+<thead>
+<tr>
+<th>笔记名称</th>
+<th>导出为md</th>
+<th>思维导图</th>
+<th>优点</th>
+<th>缺点</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>OneNote<br />90分</td>
+<td>不支持</td>
+<td>不支持</td>
+<td><br />- 利用Tab键可灵活组织层级<br />- 界面简洁<br />- 有ipad版，支持笔迹<br /></td>
+<td><br />- 没有模板<br />- Page内目录层级无导航栏<br /></td>
+</tr>
+<tr>
+<td>印象笔记<br />80分</td>
+<td>不支持</td>
+<td>不支持</td>
+<td><br />- 有模板<br />- 微信推文可导入<br /></td>
+<td><br />- Windows端界面有待优化<br /></td>
+</tr>
+<tr>
+<td>语雀<br />89分</td>
+<td>支持</td>
+<td>支持</td>
+<td><br />- 社区氛围，可观摩他人文档组织<br />- Page内目录层级有导航栏<br />- 支持MarkDown语法<br /></td>
+<td><br />- 大纲组织不如飞书灵活<br /></td>
+</tr>
+<tr>
+<td>飞书<br />92分</td>
+<td>不支持</td>
+<td>支持</td>
+<td><br />- 小加号的设计非常方便<br />- 后续可拓展团队协作<br />- 兼容上述语雀的优点<br /></td>
+<td><br />- 无法导出为Markdown<br />- 安全性存疑，尤其是成为公司成员后<br /></td>
+</tr>
+<tr>
+<td>Notion<br />85分</td>
+<td>支持</td>
+<td>支持插入链接</td>
+<td><br />- 支持插入的种类丰富<br /></td>
+<td><br />- 也是丰富，决策成本上升<br /></td>
+</tr>
+<tr>
+<td>石墨笔记<br />85分</td>
+<td>支持</td>
+<td>文档内不支持新建</td>
+<td><br />- 比飞书更简洁<br /></td>
+<td><br />- 文档内不支持嵌入思维导图<br /></td>
+</tr>
+</tbody></table>
+<p>​</p>
+<p>综上，现阶段新的笔记整理方案为：</p>
+<ol>
+<li>日常记录、听课听讲座仍以OneNote为主体，学习收集一些模板组织的技巧</li>
+<li>可分享的知识、对导图依赖弱的知识库依托语雀，快捷导出Markdown</li>
+<li>短期内应试复习等资料整理可依托飞书</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>利器</tag>
+      </tags>
+  </entry>
 </search>
